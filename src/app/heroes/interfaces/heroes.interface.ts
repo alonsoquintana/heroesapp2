@@ -5,7 +5,7 @@ export interface Heroe {
     alter_ego:        string;
     first_appearance: string;
     characters:       string;
-    alt_image:        string; // http://kaskmfasdfalkhas.com/img.png
+    alt_img:          string; // http://kaskmfasdfalkhas.com/img.png
 }
 
 export enum Publisher {
